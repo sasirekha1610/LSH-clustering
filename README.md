@@ -3,6 +3,6 @@ This python project implements Locality Sensitive Hashing with minhash and jacca
 
 To run this project,
 
-Clone it.
-Make sure data folder is inside the working directory.
-Run LSH.py (#python LSH.py)
+1. Clone it.
+2. Make sure data flder is inside the working directory.
+3. Run LSH.py (#python LSH.py)
